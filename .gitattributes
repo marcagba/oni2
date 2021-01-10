@@ -15,10 +15,6 @@
 *.tgz      binary
 *.zip      binary
 
-# Linguist override
-*.re linguist-language=Reason
-*.rei linguist-language=Reason
-
 # Hide lockfile updates
 *esy.lock/* linguist-generated
 
